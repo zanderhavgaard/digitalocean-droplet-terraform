@@ -1,0 +1,5 @@
+do_token = ""
+region = ""
+apt_packages = ""
+vm_size = ""
+vm_image = ""
