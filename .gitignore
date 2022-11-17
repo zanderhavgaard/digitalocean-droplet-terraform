@@ -1,5 +1,6 @@
 secrets/
 terraform.auto.tfvars
+terraform.tfvars
 
 # Local .terraform directories
 **/.terraform/*
